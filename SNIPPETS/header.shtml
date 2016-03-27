@@ -1,0 +1,4 @@
+<link rel="icon" type="image/png" href="IMG/icon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--#include virtual="/SNIPPETS/jsimport.shtml" -->
+<!--#include virtual="/SNIPPETS/cssimport.shtml" -->

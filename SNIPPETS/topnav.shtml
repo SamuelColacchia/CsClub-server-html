@@ -1,0 +1,13 @@
+<header>
+  <div class="top-img-container">
+    <a href="/index.html"><img src="/IMG/icon.png" alt="CS Club Logo" class="header-logo"></a>
+    <h1><a href="/index.html">Computer Science Club</a></h1>
+  </div>
+  <div class="top-link-container">
+    <div class="solid-black-line"></div>
+    <nav>
+      <a href="/events.html">Events</a>
+      <a href="/projects.html">Projects</a>
+    </nav>
+  </div>
+</header>

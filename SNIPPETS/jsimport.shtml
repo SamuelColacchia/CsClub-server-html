@@ -1,0 +1,7 @@
+  <!-- Import Angular  -->
+  <script src="/JS/angular.min.js"></script>
+
+  <!--Main JS Files-->
+  <script src="/JS/app.js"></script>
+  <script src="/JS/controller.js"></script>
+  <script src="/JS/service.js"></script>
