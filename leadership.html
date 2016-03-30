@@ -5,10 +5,18 @@
     <!--#include virtual="/SNIPPETS/header.shtml"-->
   </head>
 
-  <body>
+  <body ng-app="appdb" ng-controller="leaderCtrl">
     <!--#include virtual="/SNIPPETS/topnav.shtml"-->
     <main>
-      <h1>hi</h1>
+
+      <card ng-repeat="card in leaders">
+        <img src="{{card.leader_pic}}" class="leader-pic">
+
+        {{card.leader_name}}
+
+
+      </card>
+
     </main>
   </body>
 
